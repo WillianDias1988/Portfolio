@@ -129,6 +129,12 @@ Use o arquivo `.env.example` como referência para as configurações locais.
 - [Arquitetura inicial](./docs/architecture.md)
 - [Roadmap do projeto](./docs/roadmap.md)
 
+## Governança do repositório
+
+- CI: [./.github/workflows/ci.yml](./.github/workflows/ci.yml)
+- Segurança: [./.github/SECURITY.md](./.github/SECURITY.md)
+- Pull requests: [./.github/pull_request_template.md](./.github/pull_request_template.md)
+
 ## Próximos passos recomendados
 
 1. Definir a stack final do front-end;
