@@ -146,6 +146,7 @@ Use o arquivo `.env.example` como referência para as configurações locais.
 ## Autor
 
 **Willian Dias**  
-Engenheiro de Software
+Engenheiro de Software 
+
 
 > Este repositório está em evolução contínua e foi organizado para refletir critérios de qualidade, clareza e maturidade técnica.
